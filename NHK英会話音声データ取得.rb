@@ -260,25 +260,44 @@ def select_files_to_download(bangumi_title,mode:nil)
           ('0'+h["onair_date"][/(\d+)月/,1])[-2,2]+
           ('0'+h["onair_date"][/(\d+)日/,1])[-2,2]
         
-        # エンジョイ・シンプル・イングリッシュの場合は連番を渡す
         if bangumi_title == "エンジョイ・シンプル・イングリッシュ"
-          file_name = get_file_name(title, onair_date, next_number)
-          next_number += 1
+          # まず既存ファイルを検索（仮の番号で）
+          temp_file_name = get_file_name(title, onair_date, 1)
+          temp_output_file = get_dest_folder(bangumi_title) + temp_file_name
+          res = file_exist?(temp_output_file, bangumi_title)
+          
+          if res
+            # 既存ファイルが見つかった場合、その番号を使用
+            existing_number = File.basename(res).match(/^(\d+)/)&.[](1)
+            file_name = get_file_name(title, onair_date, existing_number.to_i)
+            output_file = get_dest_folder(bangumi_title) + file_name
+            
+            if res.encode("UTF-8","UTF-8-MAC") != output_file
+              need_not_to_download << file_name + "（#{File.basename(res)}）"
+            else
+              need_not_to_download << file_name
+            end
+          else
+            # 新規ファイルの場合のみ next_number を使用
+            file_name = get_file_name(title, onair_date, next_number)
+            output_file = get_dest_folder(bangumi_title) + file_name
+            stream_url = h["stream_url"]
+            need_to_download << [stream_url, output_file, file_name]
+            next_number += 1
+          end
         else
           file_name = get_file_name(title, onair_date)
-        end
-        
-        output_file = get_dest_folder(bangumi_title)+file_name
-        stream_url = h["stream_url"]
-        #ダウンロード済みかどうか調べて分類する。
-        res = file_exist?(output_file,bangumi_title)
-        unless res
-          need_to_download << [stream_url, output_file, file_name]
-        else
-          if res.encode("UTF-8","UTF-8-MAC") != output_file
-            need_not_to_download << file_name + "（#{File.basename(res)}）"
+          output_file = get_dest_folder(bangumi_title)+file_name
+          stream_url = h["stream_url"]
+          res = file_exist?(output_file,bangumi_title)
+          unless res
+            need_to_download << [stream_url, output_file, file_name]
           else
-            need_not_to_download << file_name
+            if res.encode("UTF-8","UTF-8-MAC") != output_file
+              need_not_to_download << file_name + "（#{File.basename(res)}）"
+            else
+              need_not_to_download << file_name
+            end
           end
         end
     end

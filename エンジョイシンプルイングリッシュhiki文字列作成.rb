@@ -1,13 +1,32 @@
 Encoding.default_external = "utf-8"
 
 path="/Users/inuzuka0601/Dropbox/☆英語学習/NHK英会話/エンジョイ・シンプル・イングリッシュ"
-month_num = {"4月号"=>(124..143),"5月号"=>(144..163),"６月号"=>(164..183),"7月号"=>(184..203),"8月号"=>(204..223)}
-yobi_title = {}
-yobi_title["月曜日"]="発見!世界の祭り"
-yobi_title["火曜日"]="オリジナル・ショート・ストーリー"
-yobi_title["水曜日"]="アメージング・ストーリー"
-yobi_title["木曜日"]="哲学者からの教え"
-yobi_title["金曜日"]="小泉八雲が残した日本の民話"
+month_num = {"4月号"=>(124..143),"5月号"=>(144..163),"６月号"=>(164..183),"7月号"=>(184..203),"8月号"=>(204..223),"9月号"=>(224..243),"10月号"=>(244..263),"11月号"=>(264..283),"12月号"=>(284..303),"2025年1月号"=>(304..323),"2月号"=>(324..343),"3月号"=>(344..363)}
+yobi_title = []
+yobi_title[0]={}
+yobi_title[1]={}
+
+yobi_title[0]["月曜日"]="発見!世界の祭り"
+yobi_title[0]["火曜日"]="オリジナル・ショート・ストーリー"
+yobi_title[0]["水曜日"]="アメージング・ストーリー"
+yobi_title[0]["木曜日"]="哲学者からの教え"
+yobi_title[0]["金曜日"]="小泉八雲が残した日本の民話"
+
+yobi_title[1]["月曜日"]="オリジナル・ショート・ストーリー"
+yobi_title[1]["火曜日"]="日本の伝統的笑い! 落語"
+yobi_title[1]["水曜日"]="世界の偉人伝"
+yobi_title[1]["木曜日"]="マリーのハテナ日記"
+yobi_title[1]["金曜日"]="英語で味わう日本文学"
+
+def yobi_title_hash(yobi_title,month)
+  if (4..9).include? month
+    return yobi_title[0]
+  else
+    return yobi_title[1]
+  end
+end
+
+p :step1
 
 #*** {連番=>[タイトル,ファイルパス]}のハッシュを作成 ***
 files_hash={}
@@ -23,23 +42,23 @@ p files_hash.keys
 def yobi2num(yobi)
   res=[]
   if yobi=="月曜日"
-    (24..50).each do |i|
+    (24..150).each do |i|
         res << i*5+4
     end
   elsif yobi=="火曜日"
-    (25..50).each do |i|
+    (25..150).each do |i|
         res << i*5
     end
   elsif yobi=="水曜日"
-    (25..50).each do |i|
+    (25..150).each do |i|
         res << i*5+1
     end
   elsif yobi=="木曜日"
-    (25..50).each do |i|
+    (25..150).each do |i|
         res << i*5+2
     end
   elsif yobi=="金曜日"
-    (25..50).each do |i|
+    (25..150).each do |i|
         res << i*5+3
     end
   end
@@ -50,8 +69,12 @@ end
 str_array=[]
 month_num.keys.each do |m|
   str_array << "!!"+m
-  yobi_title.keys.each do |yobi|
-    str_array << "!!!#{yobi}　#{yobi_title[yobi]}"
+  month = m.tr("０-９","0-9")[/\d+/].to_i
+  title = yobi_title_hash(yobi_title,month)
+  title.keys.each do |yobi|
+    p yobi
+    str_array << "!!!#{yobi}　#{title[yobi]}"
+    p (files_hash.keys & yobi2num(yobi))
     (files_hash.keys & yobi2num(yobi)).each do |num|
       str_array << "*[[#{files_hash[num][0]}|#{files_hash[num][1]}]]" if month_num[m].include? num
     end

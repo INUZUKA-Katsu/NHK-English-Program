@@ -18,16 +18,24 @@ end.map do |f|
   [num.to_i,f]
 end.to_h
 
+puts クリップ
+
+
+
 ary=[]
 放送原本.size.times do |i|
+  p i
   path1 =放送原本[i+1]
+  puts path1
   if クリップ[i+1]
     fname2=File.basename(クリップ[i+1]).sub(/\.(mp3|m4a)/,"")
     path2 =クリップ[i+1]
     ary<<"*[[#{fname2}|#{path2}]]（[[放送全体|#{path1}]]）"
-  else
+  elsif path1
     kai=File.basename(path1).match(/\d+/)[0]
     ary<<"*英会話ダイアログ#{kai}（[[放送全体|#{path1}]]）"
+  else
+    ary<<"*英会話ダイアログ#{kai}（音源なし）"
   end 
 end
 

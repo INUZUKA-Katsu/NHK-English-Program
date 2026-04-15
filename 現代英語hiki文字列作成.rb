@@ -265,9 +265,102 @@ https://www.notion.so/250707-80-2300a600327080998ee2cfeb7ee1f6f0?source=copy_lin
 https://www.notion.so/250708-2300a60032708068bfa2fff06dd6aec0?source=copy_link
 https://www.notion.so/250716-2340a60032708040a8e1efab53c87a40?source=copy_link
 https://www.notion.so/250717-2340a6003270807db73ae4ed217a9b6e?source=copy_link
-https://www.notion.so/20250627-2340a600327080d3aaa1daf5186a9b87?source=copy_link
-EOS
+https://www.notion.so/250718-2340a600327080d3aaa1daf5186a9b87?source=copy_link
+https://www.notion.so/250721-100-2390a6003270809eb568dbce1f5fbe21?source=copy_link
+https://www.notion.so/250722-2390a600327080128f1fe70fce7bcee9?source=copy_link
+https://www.notion.so/250723-25-2390a600327080519e00d51cf4b9d4c5?source=copy_link
+https://www.notion.so/250724-14-23a0a600327080ceb967db986ec22a94?source=copy_link
+https://www.notion.so/250725-2420a600327080c692e1e548f975fb96?source=copy_link
+https://www.notion.so/250728-2420a600327080a1a2f8ef26c4d11004?source=copy_link
+https://www.notion.so/250729-2420a6003270804bb14ae46988f4114c?source=copy_link
+https://www.notion.so/250730-2420a600327080c2b267c0b94a231429?source=copy_link
+https://www.notion.so/250731-AI-2420a60032708011a937ce14a4799590?source=copy_link
+https://www.notion.so/250801-2420a6003270807a8b55e139556c39f7?source=copy_link
+https://www.notion.so/250804-449-2450a600327080b2806cdefd0213c806?source=copy_link
+https://www.notion.so/250805-2470a6003270806cbc3fd518824757d6?source=copy_link
+https://www.notion.so/250806-2470a600327080a9976af286d4e27933?source=copy_link
+https://www.notion.so/250807-2790a6003270802083b9f7a7af926f8f?source=copy_link
+https://www.notion.so/250808-2790a600327080909c82fb12c1b01f54?source=copy_link
+https://www.notion.so/250825-80-2790a6003270804b8a92ff7f59e00e9a?source=copy_link
+https://www.notion.so/250826-2790a6003270809bb9b1c6a61dd78717?source=copy_link
+https://www.notion.so/250827-2790a600327080ef8d16d44b4e4a1249?source=copy_link
+https://www.notion.so/250828-2790a60032708071a9baefd1e4bdb09f?source=copy_link
+https://www.notion.so/250829-2790a600327080bd8019fe6bc34f1a10?source=copy_link
+https://www.notion.so/250901-2790a6003270802ca295f4c1ced9b42a?source=copy_link
+https://www.notion.so/250902-2790a6003270800ea7aae4f1515ee621?source=copy_link
+https://www.notion.so/250903-80-2790a6003270805492b2f9f0eef0c382?source=copy_link
+https://www.notion.so/250904-2790a600327080e5b7a7d84b0f62b9b8?source=copy_link
+https://www.notion.so/250905-2790a6003270802ab9dbe508bd698f0f?source=copy_link
+https://www.notion.so/250908-2790a600327080758fdadc8a9f550e36?source=copy_link
+https://www.notion.so/250909-2790a6003270807baf7fe93e7ac4632f?source=copy_link
+https://www.notion.so/250910-2790a600327080fd8bfddbc83170ac8d?source=copy_link
+https://www.notion.so/250911-1-2-2790a60032708074bf64fa2e26cc5e08?source=copy_link
+https://www.notion.so/250912-2790a6003270808cba37d017114453f3?source=copy_link
+https://www.notion.so/250915-2790a600327080c4ac31ee5197f441aa?source=copy_link
+https://www.notion.so/250916-2790a600327080638531ff55e3931f06?source=copy_link
+https://www.notion.so/250917-2790a600327080d69248c3ae2769c580?source=copy_link
+https://www.notion.so/250918-2790a600327080d4b749ccaaed7df7f0?source=copy_link
+https://www.notion.so/250919-2790a600327080e6a9d0d06ed655da91?source=copy_link
+https://www.notion.so/250929-2790a60032708063ac20cc0441021fdd?source=copy_link
+https://www.notion.so/250930-2790a600327080da9863ceb07b5cbc4b?source=copy_link
+https://www.notion.so/251001-2790a6003270808cbfb7e0cb8b3760bb?source=copy_link
+https://www.notion.so/251002-2ac0a60032708013a6beca37d1632a94?source=copy_link
+https://www.notion.so/251003-2ac0a600327080d99138fd6ed3378cea?source=copy_link
+https://www.notion.so/251006-2ac0a600327080e4baf9e4a824479e8c?source=copy_link
+https://www.notion.so/251007-ETF-2ac0a60032708063aad3e1c4573c845f?source=copy_link
+https://www.notion.so/251008-10-2ac0a600327080c08a96fcb62a0d06c2?source=copy_link
+https://www.notion.so/251009-AI-2ac0a6003270803db9b5e531613dc890?source=copy_link
+https://www.notion.so/251010-2ac0a600327080bba751fda0b03dffc9?source=copy_link
+https://www.notion.so/251013-10-2ac0a60032708066af96e1bf7b8fea74?source=copy_link
+https://www.notion.so/251014-2ac0a600327080ef9f57d410ec7572ae?source=copy_link
+https://www.notion.so/251015-TikTok-2ac0a6003270801a8720cb8d020cd909?source=copy_link
+https://www.notion.so/251016-8-2ac0a6003270800b853feaa0f606c316?source=copy_link
+https://www.notion.so/251017-2ac0a600327080c3953ce1b8668cc5b9?source=copy_link
+https://www.notion.so/251020-2ac0a6003270806eb0dfe79de6c9c7c8?source=copy_link
+https://www.notion.so/251021-2ac0a600327080879c3bfa30f1095d25?source=copy_link
+https://www.notion.so/251022-2ac0a600327080c48b72f2af96bc3daa?source=copy_link
+https://www.notion.so/251023-2ac0a6003270802cb710f4ae72f728fd?source=copy_link
+https://www.notion.so/251024-2ac0a600327080479f69f6c965cfd067?source=copy_link
+https://www.notion.so/251103-34-2ac0a600327080418ad2e8ab58bc2cc1?source=copy_link
+https://www.notion.so/251104-2ac0a600327080e2a224cff7053924ac?source=copy_link
+https://www.notion.so/251105-PKO-4-1-2ac0a600327080518f9cf6880fe89a6d?source=copy_link
+https://www.notion.so/251106-100-2ac0a60032708092bdcad6ee285c5170?source=copy_link
+https://www.notion.so/251107-2ac0a600327080ec9ce2f83208f861ca?source=copy_link
+https://www.notion.so/251110-2ac0a6003270801b92cdebf7c84a9514?source=copy_link
+https://www.notion.so/251111-5-2ac0a600327080dfb2a4c75d84b90243?source=copy_link
+https://www.notion.so/251112-2ac0a60032708024ae30d3525ed6baa1?source=copy_link
+https://www.notion.so/251113-2ac0a60032708061a7a7d64f0ebd1b43?source=copy_link
+https://www.notion.so/251114-2ac0a6003270805f977fc2fade66afaa?source=copy_link
+https://www.notion.so/251117-2ac0a60032708005a558f8ad55bb56bb?source=copy_link
+https://www.notion.so/251118-2ac0a60032708049b9c6dc2638517731?source=copy_link
+https://www.notion.so/251119-2ac0a60032708083a6c2c38136044cdd?source=copy_link
+https://www.notion.so/251120-2b60a60032708028903aed8c18beb43f?source=copy_link
+https://www.notion.so/251121-2b60a6003270805eb7b9d94881a425c1?source=copy_link
+https://www.notion.so/251201-2c70a600327080019aeedd271df2a3ed?source=copy_link
+https://www.notion.so/251202-GDP6-2c70a6003270804da097e594cce83902?source=copy_link
+https://www.notion.so/251203-BBC-2c70a600327080f19660c1430016ffe8?source=copy_link
+https://www.notion.so/251204-2c70a6003270800981ffe2f2bab33c7d?source=copy_link
+https://www.notion.so/251205-2c70a60032708025bc30e1ae1ce2798a?source=copy_link
+https://www.notion.so/251208-IT-2c70a6003270800886c7d30c6700544d?source=copy_link
+https://www.notion.so/251209-2c70a6003270807db406c0a3ac086832?source=copy_link
+https://www.notion.so/251210-2c70a600327080db9e0ad92ca29ac7e0?source=copy_link
+https://www.notion.so/251211-2c70a6003270809cac96c781a85cba41?source=copy_link
+https://www.notion.so/251212-2c70a600327080a9a090c2a02bd0c05b?source=copy_link
+https://www.notion.so/251215-2cb0a600327080e38cd5d4bf6ef8e370?source=copy_link
+https://www.notion.so/251216-2cb0a60032708040b74ad00a8e26b258?source=copy_link
+https://www.notion.so/251217-2cb0a6003270803cac1fe7ca3f5dff68?source=copy_link
+https://www.notion.so/251218-2df0a60032708022b63add103e74a0f0?source=copy_link
+https://www.notion.so/251219-2df0a6003270801b9469cd21bee0aa3a?source=copy_link
+https://www.notion.so/251222-AI-2df0a6003270807fb689ca812889a3f4?source=copy_link
+https://www.notion.so/251223-2df0a600327080939cd6dc4497dfe866?source=copy_link
+https://www.notion.so/251224-1-2df0a600327080978a6fd327e7c3fa17?source=copy_link
+https://www.notion.so/251225-2df0a600327080188ac8e0bb749c1435?source=copy_link
+https://www.notion.so/251226-2df0a6003270802e8955cd9fb346baa1?source=copy_link
+https://www.notion.so/260112-2df0a600327080338649cf22c7adb185?source=copy_link
+https://www.notion.so/260113-2df0a600327080d2bcc1ce09be693f1c?source=copy_link
+https://www.notion.so/260114-2df0a6003270807fa005cc0365d802b4?source=copy_link
 
+EOS
 notion_link={}
 str.split("\n").each do |l|
     day=l.match(/\d+/)[0]
@@ -299,9 +392,9 @@ ary2.each{|l|
             if clip
                 puts "*[[#{File.basename(l).match(/\d\d\d\d\d\d[^\.]+/)[0]}|#{clip}]] ([[放送全体|#{l}]]、[[全文と解説|#{notion_link[day]}]]）"
             elsif notion_link[day]
-                puts "*#{File.basename(l).match(/\d\d\d\d\d\d[^\.]+/)[0]} ([[放送全体|#{l}]]、[[全文と解説|#{notion_link[day]}]]）"
+                puts "*#{File.basename(l).match(/\d\d\d\d\d\d[^\.]+/)[0]}<br> ([[放送全体|#{l}]]、[[全文と解説|#{notion_link[day]}]]）"
             else
-                puts "*#{File.basename(l).match(/\d\d\d\d\d\d[^\.]+/)[0]} ([[放送全体|#{l}]]）"
+                puts "*#{File.basename(l).match(/\d\d\d\d\d\d[^\.]+/)[0]}<br> ([[放送全体|#{l}]]）"
             end
         end
     else
